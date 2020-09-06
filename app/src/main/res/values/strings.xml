@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExpShare</string>
+    <string name="login_to_expshare">Login to ExpShare</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>
